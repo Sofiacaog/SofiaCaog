@@ -1,4 +1,8 @@
-## 💻✨ Hi, I’m Sofia
+
+<img width="1584" height="396" alt="2" src="https://github.com/user-attachments/assets/da5fa50e-9fd8-4738-80a3-a3db9a12eae7" />
+
+
+## 💻✨ Hi, I’m Sofia  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-cao-qa/) 
 I’m a **Quality Assurance Engineer** focused on building software that feels reliable, intuitive, and ready for real users.  
 I work across **manual testing, API testing, and early test automation**, with a strong eye for detail and a practical, user-first mindset.
 
