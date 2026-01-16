@@ -1,5 +1,47 @@
-## Hi there 👋
+## 💻✨ Hi, I’m Sofia
+I’m a **Quality Assurance Engineer** focused on building software that feels reliable, intuitive, and ready for real users.  
+I work across **manual testing, API testing, and early test automation**, with a strong eye for detail and a practical, user-first mindset.
 
+---
+
+## ⚡ About me
+
+🎓 Graduate of the **Quality Assurance Engineering bootcamp** at TripleTen  
+🧪 Hands-on experience with **manual testing, API testing, and early automation using Python & Pytest**  
+💡 Curious, adaptable, and detail-oriented — I enjoy analyzing how systems behave beyond ideal scenarios  
+🧠 Strong in analytical problem-solving and structured work, with the ability to adjust quickly to new tools, workflows, and requirements  
+🧩 Continuously improving my skills in **automation, API testing, and database validation**
+
+---
+
+## 🛠️ Skills & tools
+
+- **Software Testing:** Manual and exploratory testing, UI testing, regression testing, debugging, and edge-case analysis.  
+
+- **Automation:** Early test automation using **Python, Pytest, and Selenium**, focused on learning, clarity, and test reliability.  
+
+- **API Testing:** REST API testing with **Postman**, validating requests, responses, and error handling using **JSON**.  
+
+- **Tools & Workflow:** JIRA for defect tracking, Chrome DevTools for debugging, **Git & GitHub** for version control, **Bash** for basic scripting, and **SQL** for data validation.  
+
+- **Ways of working:** Agile environments, clear test documentation, thoughtful bug reporting, adaptability, and strong collaboration with cross-functional teams.
+
+---
+
+## 🚀 Selected Projects
+
+### 🚕 Urban Routes — Web Application
+
+📌 **Overview:**  Urban Routes is a web application that calculates routes, duration, and pricing for different transportation options, allowing users to book rides in real time.
+
+🛠 **Testing & tools:**  Manual testing · Regression testing · Chrome DevTools · JIRA · SQL
+
+🔍 **My contribution:**  
+- 🧪 Designed and executed **positive and negative test cases** to validate core booking flows  
+- 🧭 Performed **regression testing** across Chrome and Firefox, including different screen resolutions  
+- 📝 Created **checklists** to validate UI elements such as booking forms, pop-ups, and payment options  
+- 🐞 Reported and documented **functional and UI defects** in JIRA with clear reproduction steps  
+- 💳 Validated key features including **payment methods**, shared ride logic, and booking confirmation
 <!--
 **Sofiacaog/SofiaCaog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
