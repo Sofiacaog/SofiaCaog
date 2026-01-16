@@ -2,7 +2,7 @@
 <img width="1584" height="396" alt="2" src="https://github.com/user-attachments/assets/da5fa50e-9fd8-4738-80a3-a3db9a12eae7" />
 
 
-## 💻✨ Hi, I’m Sofia  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-cao-qa/) 
+## 💻✨ Hi, I’m Sofia   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-cao-qa/) 
 I’m a **Quality Assurance Engineer** focused on building software that feels reliable, intuitive, and ready for real users.  
 I work across **manual testing, API testing, and early test automation**, with a strong eye for detail and a practical, user-first mindset.
 
@@ -46,6 +46,15 @@ I work across **manual testing, API testing, and early test automation**, with a
 - 📝 Created **checklists** to validate UI elements such as booking forms, pop-ups, and payment options  
 - 🐞 Reported and documented **functional and UI defects** in JIRA with clear reproduction steps  
 - 💳 Validated key features including **payment methods**, shared ride logic, and booking confirmation
+
+---
+
+## 💬 Let’s connect
+
+📍 Open to QA opportunities and collaborations
+- 🔗 LinkedIn: [https://www.linkedin.com/in/sofia-cao-qa/]  
+- 📧 Email: [sofia.cao.cs@gmail.com]
+
 <!--
 **Sofiacaog/SofiaCaog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
