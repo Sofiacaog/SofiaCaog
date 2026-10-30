@@ -3,19 +3,18 @@
 
 
 ## 💻✨ Hi, I’m Sofia   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-cao-qa/) 
-I’m a **Quality Assurance Engineer** focused on building software that feels reliable, intuitive, and ready for real users.  
-I work across **manual testing, API testing, and early test automation**, with a strong eye for detail and a practical, user-first mindset.
+I’m a **QA Engineer and Game Test Analyst at Sony Interactive Entertainment (PlayStation)**, currently working as a contractor through **Yoh Services**. 
+I’m focused on building software that feels reliable, intuitive, and ready for real users. I work across **manual testing, API testing, and early test automation**, with a strong eye for detail and a practical, user-first mindset.
 
 ---
 
 ## ⚡ About me
 
 🎓 Graduate of the **Quality Assurance Engineering bootcamp** at TripleTen  
-🎮 Currently working as a **Game Test Analyst at Sony Interactive Entertainment (PlayStation)**, as a contractor through **Yoh Services**  
-🧪 Hands-on experience with **manual testing, API testing, and early automation using Python & Pytest**  
-💡 Curious, adaptable, and detail-oriented — I enjoy analyzing how systems behave beyond ideal scenarios  
-🧠 Strong in analytical problem-solving and structured work, with the ability to adjust quickly to new tools, workflows, and requirements  
-🧩 Continuously improving my skills in **automation, API testing, and database validation**
+🧪 Hands-on experience with **manual testing, API testing, and introductory automation using Python & Pytest**  
+💡 Curious and detail-oriented — I enjoy exploring how systems behave beyond expected scenarios and investigating unexpected results  
+🧠 Strong analytical problem-solving skills, with the ability to adapt quickly to new tools, workflows, and requirements  
+🧩 Continuously developing my skills in **test automation, API testing, and database validation**  
 
 ---
 
