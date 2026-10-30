@@ -11,6 +11,7 @@ I work across **manual testing, API testing, and early test automation**, with a
 ## ⚡ About me
 
 🎓 Graduate of the **Quality Assurance Engineering bootcamp** at TripleTen  
+🎮 Currently working as a **Game Test Analyst at Sony Interactive Entertainment (PlayStation)**, as a contractor through **Yoh Services**  
 🧪 Hands-on experience with **manual testing, API testing, and early automation using Python & Pytest**  
 💡 Curious, adaptable, and detail-oriented — I enjoy analyzing how systems behave beyond ideal scenarios  
 🧠 Strong in analytical problem-solving and structured work, with the ability to adjust quickly to new tools, workflows, and requirements  
@@ -52,9 +53,9 @@ I work across **manual testing, API testing, and early test automation**, with a
 ## 💬 Let’s connect
 
 📍 Open to QA opportunities and collaborations
-- 🔗 LinkedIn: [https://www.linkedin.com/in/sofia-cao-qa/]  
-- 📧 Email: [sofia.cao.cs@gmail.com]
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sofia-cao-qa/)  
+- 📧 Email: sofia.cao.cs@gmail.com
+- 🔭 [View My QA Projects](https://drive.google.com/drive/folders/1IHyrPsDThrFa_hoBtV-d4Zz25ZzcLmeG?usp=sharing) 
 <!--
 **Sofiacaog/SofiaCaog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
